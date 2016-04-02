@@ -73,15 +73,89 @@ h3{
   background: rgba(0, 0, 0, 1.0);
 }
 
-
-
 .margen{
   margin-top: -45px;
 }
 
+/* Propiedades del  círculo */
+div.circulo {
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: 70%;
+    border-radius: 50%;
+    background-size: 110% auto;
+    position: relative;
+    margin-top: 3%;
+}
+
+.name {
+  margin-top: 30px;
+  text-align: center;
+}
 
 
+.txt{
+  font-size: 18px;
+  padding: 10px 180px; 
+} 
+
+h2{
+  margin-left: 30px;
+}
+
+.rectangulo1{
+    width: 380px; 
+    font-size: 16px;
+     color: #fff;
+     padding-top: 9px;
+     padding-bottom: 9px;
+     padding-left: 10px;
+     background: #808080;
+     margin: 20px;
+}
+
+.rectangulo2{
+    width: 280px; 
+    font-size: 16px;
+    color: #fff;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    background: #808080;
+    margin: 20px;
+}
+
+.rectangulo3{
+    width: 180px; 
+    font-size: 16px;
+    color: #fff;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    background: #808080;
+    margin: 20px;
+}
 
 
+#principal li { 
+   display:inline; 
+   float:left; 
+} 
 
+#principal li { 
+   display:inline; 
+   float:left; 
+   background-color:#f5f7f9; 
+   padding:9px; 
+   margin:42px; 
+   text-align: center; 
+   border-right: #a5a7aa solid 1px; 
+   border-bottom: #a5a7aa solid 1px; 
+}
+
+.imagenes{
+  width: 280px;
+ 
+}
 
